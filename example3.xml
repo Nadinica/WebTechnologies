@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <comedy>
+        <movie>
+            <movietitle>Операция «Ы» и другие приключения Шурика</movietitle>
+            <country>СССР</country>
+            <year>1965</year>
+        </movie>
+        <movie>
+            <movietitle>Один дома</movietitle>
+            <country>США</country>
+            <year>1990</year>
+        </movie>
+        <movie>
+            <movietitle>Маска</movietitle>
+            <country>США</country>
+            <year>1994</year>
+        </movie>
+        <movie>
+            <movietitle>Мальчишник в Вегасе</movietitle>
+            <country>США</country>
+            <year>2009</year>
+        </movie>
+        <movie>
+            <movietitle>О чём говорят мужчины</movietitle>
+            <country>Россия</country>
+            <year>2010</year>
+        </movie>
+    </comedy>
+    <Documentary>
+        <movie>
+            <movietitle>Галилео</movietitle>
+            <country>Россия</country>
+            <year>2007-2015</year>
+        </movie>
+        <movie>
+            <movietitle>Романовы</movietitle>
+            <country>Россия</country>
+            <year>2013</year>
+        </movie>
+        <movie>
+            <movietitle>Космос: Пространство и время</movietitle>
+            <country>США</country>
+            <year>2014</year>
+        </movie>
+        <movie>
+            <movietitle>Сахар</movietitle>
+            <country>Австралия</country>
+            <year>2014</year>
+        </movie>
+        <movie>
+            <movietitle>Русские хакеры: Начало</movietitle>
+            <country>Россия</country>
+            <year>2021</year>
+        </movie>
+    </Documentary>
+</catalog>
